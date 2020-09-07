@@ -1,7 +1,4 @@
-# Robotics
-RoboKart: Robot-Assisted Grocery Shopping     
-
-This Grocery store robot aims to assist customers in the tedious task of grocery shopping.
+ This Grocery store robot aims to assist customers in the tedious task of grocery shopping.
 
 Project Features:
 - Manipulation techniques like aligning, grasping, lifting and placing using KOMO objectives
