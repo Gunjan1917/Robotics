@@ -8,3 +8,5 @@ Project Features:
 - Integration of a .txt file to update the result of shopping
 - Obstacle detection and collision-prevention
 - Use of meshes for environment setup
+
+![alt text](https://github.com/[Gunjan1917]/[Robotics]/blob/[Gunjan1917-patch-1]/projectpicture.jpg?raw=true)
