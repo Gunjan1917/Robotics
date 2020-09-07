@@ -1,4 +1,6 @@
- This Grocery store robot aims to assist customers in the tedious task of grocery shopping.
+# Project Description: 
+
+This Grocery store robot aims to assist customers in the tedious task of grocery shopping.
 
 Project Features:
 - Manipulation techniques like aligning, grasping, lifting and placing using KOMO objectives
@@ -9,5 +11,6 @@ Project Features:
 - Obstacle detection and collision-prevention
 - Use of meshes for environment setup
 
+# Design Layout
 ![alt text](https://github.com/Gunjan1917/Robotics/blob/Gunjan1917-patch-1/projectpicture.PNG)
 
