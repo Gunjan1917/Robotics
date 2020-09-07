@@ -9,4 +9,5 @@ Project Features:
 - Obstacle detection and collision-prevention
 - Use of meshes for environment setup
 
-![alt text](https://github.com/[Gunjan1917]/[Robotics]/[Gunjan1917-patch-1]/projectpicture.PNG?raw=true)
+![alt text](https://github.com/Gunjan1917/Robotics/blob/Gunjan1917-patch-1/projectpicture.PNG)
+
