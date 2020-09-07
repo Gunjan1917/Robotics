@@ -1,4 +1,4 @@
-# Project Description: 
+# Project Description
 
 This Grocery store robot aims to assist customers in the tedious task of grocery shopping.
 
