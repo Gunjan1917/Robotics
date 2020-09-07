@@ -20,8 +20,7 @@ Challenges Faced:
 	2. Random KOMO optimization errors
 
 # Design Layout
-![alt text](https://github.com/Gunjan1917/Robotics/blob/projectpicture.PNG)
+![alt text](https://github.com/Gunjan1917/Robotics/projectpicture.PNG)
 
 # How to run the project
-Clone the folder scenarios, shoppingList.txt and RoboKart_project.ipynb in the same location.
-From the current location, run the command: jupyter-notebook Robotkart_project.ipynb
+Clone the folder scenarios, shoppingList.txt and RoboKart_project.ipynb in the same location. From the current location, run the command: jupyter-notebook Robotkart_project.ipynb
