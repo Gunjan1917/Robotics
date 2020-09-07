@@ -25,4 +25,3 @@ Challenges Faced:
 # How to run the project
 Clone the folder scenarios, shoppingList.txt and RoboKart_project.ipynb in the same location.
 From the current location, run the command: jupyter-notebook Robotkart_project.ipynb
-
